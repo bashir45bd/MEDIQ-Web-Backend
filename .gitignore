@@ -1,0 +1,8 @@
+.env
+*.log
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+backend/config/firebase_service_account.json
